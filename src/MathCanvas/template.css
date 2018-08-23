@@ -1,0 +1,40 @@
+section.js-math-canvas {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    min-height: 75%;
+}
+
+section.js-notebook {
+    min-height: 5rem;
+}
+
+section.js-notebook {
+    width: 100%;
+    height: 100%;
+}
+
+section.js-notebook,
+section.js-inputarea {
+    padding: 1rem;
+}
+
+span.math-canvas-formula {
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 0.25rem;
+}
+
+
+/* COLORING */
+
+section.js-math-canvas {
+    border: 0.5rem solid whitesmoke;
+}
+section.js-workbench {
+    border: 1px solid lightgray;
+}
+section.js-notebook,
+section.js-inputarea {
+    border: 1px solid lightgray;
+}
