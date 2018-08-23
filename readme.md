@@ -1,4 +1,4 @@
-# An editor for designing DISAM schemes
+# A canvas for writing math in the browser!
 
 | Command | What does it do? |
 | ------- | ---------------- |
